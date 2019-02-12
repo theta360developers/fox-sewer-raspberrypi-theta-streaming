@@ -21,6 +21,11 @@ Different versions of the FOX SEWER ROVER are used to inspect drainage systems i
 ![Rover Large Pipe](https://community.theta360.guide/uploads/default/original/2X/4/4db9eb4c28e12db05b54e4dc396cdbaf5f904d0f.jpeg)
 Rover for large pipe.
 
+---
+
+![Light Strip](https://community.theta360.guide/uploads/default/original/2X/a/a49566424f9d35dae6b4b54d858e28dc90bd2cf8.png)
+LED light strip for 360 degree lighting.
+
 ## Discussion and More Information
 
 https://community.theta360.guide/t/theta-v-live-streaming-using-pi-3/2482/8?u=codetricity
