@@ -12,6 +12,15 @@ The RICOH THETA V is placed sideways in a low-cost plastic enclosure. Hugues des
 
 Different versions of the FOX SEWER ROVER are used to inspect drainage systems in a range of sizes. The rover below is built for a large pipe.
 
+## THETA Streaming Architecture
+
+![Streaming Architecture](https://community.theta360.guide/uploads/default/original/2X/a/aa86ab270108335ad9efc1a7c6750695930bd961.png)
+
+## Rover Pictures
+
+![Rover Large Pipe](https://community.theta360.guide/uploads/default/original/2X/4/4db9eb4c28e12db05b54e4dc396cdbaf5f904d0f.jpeg)
+Rover for large pipe.
+
 ## Discussion and More Information
 
 https://community.theta360.guide/t/theta-v-live-streaming-using-pi-3/2482/8?u=codetricity
